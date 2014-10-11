@@ -1,0 +1,109 @@
+[
+    {
+        "_id": 422036,
+        "key": null,
+        "name": "Kieve",
+        "fullName": "Kieve, Germany",
+        "iata_airport_code": null,
+        "type": "location",
+        "country": "Germany",
+        "geo_position": {
+            "latitude": 53.27456,
+            "longitude": 12.59377
+        },
+        "locationId": 121308,
+        "inEurope": true,
+        "countryCode": "DE",
+        "coreCountry": true,
+        "distance": null
+    },
+    {
+        "_id": 407908,
+        "key": null,
+        "name": "Kyiv",
+        "fullName": "Kyiv, Ukraine",
+        "iata_airport_code": null,
+        "type": "location",
+        "country": "Ukraine",
+        "geo_position": {
+            "latitude": 50.45466,
+            "longitude": 30.5238
+        },
+        "locationId": 40142,
+        "inEurope": true,
+        "countryCode": "UA",
+        "coreCountry": false,
+        "distance": null
+    },
+    {
+        "_id": 459555,
+        "key": null,
+        "name": "Kievskiy",
+        "fullName": "Kievskiy, Russia",
+        "iata_airport_code": null,
+        "country": "Russia",
+        "geo_position": {
+            "latitude": 55.43642,
+            "longitude": 36.89827
+        },
+        "locationId": 160670,
+        "inEurope": false,
+        "countryCode": "RU",
+        "coreCountry": false,
+        "distance": null
+    },
+    {
+        "_id": 457846,
+        "key": null,
+        "name": "Kīevka",
+        "fullName": "Kīevka, Kazakhstan",
+        "iata_airport_code": null,
+        "type": "location",
+        "country": "Kazakhstan",
+        "geo_position": {
+            "latitude": 50.26212,
+            "longitude": 71.54839
+        },
+        "locationId": 158824,
+        "inEurope": false,
+        "countryCode": "KZ",
+        "coreCountry": false,
+        "distance": null
+    },
+    {
+        "_id": 314276,
+        "key": null,
+        "name": "Kiev Borispol",
+        "fullName": "Kiev Borispol (KBP), Ukraine",
+        "iata_airport_code": "KBP",
+        "type": "airport",
+        "country": "Ukraine",
+        "geo_position": {
+            "latitude": 50.345,
+            "longitude": 30.895
+        },
+        "locationId": null,
+        "inEurope": true,
+        "countryCode": "UA",
+        "coreCountry": false,
+        "distance": null
+    },
+    {
+        "_id": 314277,
+        "key": null,
+        "name": "Kiev Zhulhany",
+        "fullName": "Kiev Zhulhany (IEV), Ukraine",
+        "iata_airport_code": "IEV",
+        "type": "airport",
+        "country": "Ukraine",
+        "geo_position": {
+            "latitude": 50.40194,
+            "longitude": 30.45111
+        },
+        "locationId": null,
+        "inEurope": true,
+        "countryCode": "UA",
+        "coreCountry": false,
+        "distance": null
+    }
+]
