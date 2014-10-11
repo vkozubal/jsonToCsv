@@ -54,7 +54,5 @@ public class SimpleTest {
         File actual = new File("./csv1-data.csv");
         Assert.assertTrue(!actual.exists() || actual.length() == 0);
         actual.deleteOnExit();
-
-
     }
 }
